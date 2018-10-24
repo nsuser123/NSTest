@@ -19,7 +19,7 @@
  * @author Regina R. dela Cruz
  * @version 1.0
  */
-function saveRecord_SalesOrderApprovalValidation() { // client save
+function saveRecord_SalesOrderApprovalValidation() { // client sav.e
 	var logger = new Logger();
 	var stLoggerTitle = 'saveRecord_SalesOrderApprovalValidation';
 	var approvalAlert1 = '';
